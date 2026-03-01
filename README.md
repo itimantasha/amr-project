@@ -57,6 +57,7 @@ python download_large_db.py
 
 # Combine all into single file
 python combine_genes.py
+```
 
 🎯 Use Cases
 ✅ BLAST against known resistance genes
@@ -71,8 +72,10 @@ python combine_genes.py
 
 ✅ Drug discovery research
 
-📜 License
+
+###📜 License
 This database is distributed under the Open Database License (ODbL).
+
 🙏 Acknowledgments
 NCBI RefSeq
 
