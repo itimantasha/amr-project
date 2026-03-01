@@ -73,7 +73,7 @@ python combine_genes.py
 ✅ Drug discovery research
 
 
-###📜 License
+### 📜 License
 This database is distributed under the Open Database License (ODbL).
 
 🙏 Acknowledgments
